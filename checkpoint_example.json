@@ -1,0 +1,20 @@
+{
+  "boundaries": [
+    "650000000000000000000001",
+    "658000000000000000000001",
+    "660000000000000000000001"
+  ],
+  "numDocsTotal": 450000000,
+  "numDocsBoundary": 12000000,
+  "thisBoundary": 3,
+  "startFromId": "663000000000000000000001",
+  "lastId": "663000000000000000000001",
+  "queryStartTime": 1700000000.0,
+  "numDocuments": 1200000000,
+  "feedbackDocuments": 150000000,
+  "progressDocuments": 10500000,
+  "database": "<database>",
+  "collection": "<collection>",
+  "numSegments": 8,
+  "lastUpdateTime": 1700036000.0
+}

@@ -1,0 +1,7 @@
+docdb_segments.py is a modified version of dms-segments.py from
+amazon-documentdb-tools (https://github.com/awslabs/amazon-documentdb-tools),
+Copyright Amazon.com, Inc. or its affiliates, licensed under the Apache
+License, Version 2.0.
+
+docdb_data_compare.py borrows its approach from the DataDiffer tool in the
+same repository.

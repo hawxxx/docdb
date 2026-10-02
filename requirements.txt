@@ -1,0 +1,4 @@
+pymongo>=4,<5
+boto3>=1,<2
+python-dotenv>=1,<2
+rich>=13,<15
