@@ -1,7 +1,7 @@
 # DMS Segmentation & Comparison Workflow
 
-Visual reference for how `docdb_segments.py`, `compare_docdb.py`, and
-`docdb_data_compare.py` fit together in a DMS migration. See [README.md](README.md) for full script-level detail.
+Visual reference for how [DocDB Segments](docdb-segments/), [Compare DocDB](compare-docdb/), and
+[DocDB Data Compare](docdb-data-compare/) fit together in a DMS migration.
 
 ```mermaid
 flowchart TD
